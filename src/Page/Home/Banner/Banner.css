@@ -1,0 +1,8 @@
+.text-background{
+    background: linear-gradient(136.85deg,#FF9800 20%,#04fdb6 99.57%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.font-family{
+    font-family: "Kalam", cursive;
+}
